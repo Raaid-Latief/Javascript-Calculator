@@ -24,12 +24,12 @@ function changered() {
     document.getElementById("display").style.color = "red";
 }
 
-function changered() {
-    document.getElementById("display").style.color = "red";
+function changegreen() {
+    document.getElementById("display").style.color = "green";
 }
 
-function changered() {
-    document.getElementById("display").style.color = "red";
+function changeorange() {
+    document.getElementById("display").style.color = "orange";
 }
 
 
