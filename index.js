@@ -32,6 +32,9 @@ function changeorange() {
     document.getElementById("display").style.color = "orange";
 }
 
+function changepurple() {
+    document.getElementById("display").style.color = "purple";
+}
 
 
   
